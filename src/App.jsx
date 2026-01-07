@@ -14,7 +14,7 @@ const users=[
     img:'https://images.unsplash.com/photo-1567808291548-fc3ee04dbcf0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D',
     intro:'Hi This is intro for content 2 lorem50 ipsum dolor sit amet, consectetur adipiscing elit.',
     tag:'Underserved',
-    color:'yellow'
+    color:'purple'
   },
   {
     img:'https://plus.unsplash.com/premium_photo-1686730540277-c7e3a5571553?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FyfGVufDB8fDB8fHww',
